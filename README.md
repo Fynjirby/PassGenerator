@@ -1,5 +1,4 @@
-<img scr="img/icon.png" width="60px"> PassGenerator 
+![](img/icon.png) PassGenerator 
  Simple password generator
-<div align="center">
-<img scr="img/Mainwindow.png">
-</div>
+ 
+![](img/Mainwindow.png)
