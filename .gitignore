@@ -1,2 +1,5 @@
 test
 *.app
+*.zip
+*.dmg
+.DS_Store
