@@ -1,4 +1,4 @@
-<img src="http://url.to/image.png" width="200" height="200"> PassGenerator 
+<img src="img/icon.png" width="10" height="10"> PassGenerator 
  Simple password generator
  
 ![](img/Mainwindow.png)
